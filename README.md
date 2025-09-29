@@ -24,7 +24,8 @@ Example: "_My Netflix clone focuses on anime content only._"
 Add **one new feature** you plan to build.  
 Example: `- 🌍 Multi-language subtitles`
 
----
+---<img width="1226" height="876" alt="Screenshot 2025-09-26 155123" src="https://github.com/user-attachments/assets/9e551413-7bf4-488a-8df8-46aeeefe976d" />
+
 
 ## 🛠️ Tech Stack
 
